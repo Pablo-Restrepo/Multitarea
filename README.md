@@ -2,7 +2,7 @@
 
 ## Como Ejecutarlo
 
-Ingresar a https://wokwi.com/projects/367741293732278273 para probar el proyecto.
+Ingresar a https://wokwi.com/projects/367911070055548929 para probar el proyecto.
 
 ## Integrantes:
 
